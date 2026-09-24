@@ -1,5 +1,4 @@
 #==============================================================================
-# Caltech CS130 - Winter 2024
 #
 # This file specifies the API that we expect your implementation to conform to.
 # You will likely want to move these classes into various files, but the tests
